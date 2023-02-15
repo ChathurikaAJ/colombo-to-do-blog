@@ -6,4 +6,4 @@ Blog post about local restaurants, event listings and other fun acitivities that
 
 <img width="1266" alt="ScreenShot" src="./assets/colombotodo.PNG">
 
-Built using React, NextJS, Tailwind CSS, GrapghQL and Hygraph
+Built using React, NextJS, Tailwind CSS, GraphQL and Hygraph
